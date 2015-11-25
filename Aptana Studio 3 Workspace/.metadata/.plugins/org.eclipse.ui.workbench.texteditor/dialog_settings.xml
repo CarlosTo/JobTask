@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="wholeword"/>
+		<item value="background-color:" key="selection"/>
+		<list key="findhistory">
+			<item value="background-color:"/>
+			<item value="#26319C;"/>
+			<item value="blockconte"/>
+			<item value="blockcontec"/>
+			<item value="background-color"/>
+			<item value="background-position: top center;"/>
+			<item value="z-index: -2;"/>
+			<item value="#C9F;"/>
+		</list>
+	</section>
+</section>
